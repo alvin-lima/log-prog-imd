@@ -1,0 +1,7 @@
+var numero := leia_inteiro
+var classe := numero <100
+se var classe == verdadeiro então
+	imprima "({numero} + 100)"
+senão
+    imprima "({numero} - 100)"
+fim

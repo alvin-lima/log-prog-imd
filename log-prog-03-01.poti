@@ -1,0 +1,7 @@
+var numero := leia_inteiro
+var impar := numero mod 2 <> 0
+se impar == verdadeiro então
+	imprima numero + 1
+senão
+  	imprima numero
+fim

@@ -1,2 +1,4 @@
-escreva "Oi, mundo!"
-escreva "mais uma linha"
+var numero := leia_inteiro
+se var numero mod 2 == 0 
+então escreva "{numero}"
+senão então escreva "({numero} +1)"
